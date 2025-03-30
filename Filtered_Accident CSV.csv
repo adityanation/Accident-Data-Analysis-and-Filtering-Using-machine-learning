@@ -183,16 +183,4 @@ Age,Gender,Speed_of_Impact,Helmet_Used,Seatbelt_Used,Survived
 61,Female,29.0,Yes,Yes,1
 61,Male,38.0,Yes,No,1
 37,Female,77.0,No,No,0
-47,Female,115.0,No,Yes,1
-28,Male,20.0,Yes,No,1
-45,Male,88.0,Yes,No,0
-42,Female,23.0,No,Yes,1
-56,Male,35.0,Yes,Yes,0
-50,Female,43.0,Yes,Yes,1
-18,Female,99.0,Yes,No,0
-44,Female,21.0,No,Yes,0
-69,Female,111.0,No,Yes,1
-30,Female,51.0,No,Yes,1
-58,Male,110.0,No,Yes,1
-20,Male,103.0,No,Yes,1
-56,Female,43.0,No,Yes,1
+
